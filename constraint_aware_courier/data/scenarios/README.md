@@ -1,0 +1,1 @@
+This directory can hold per-scenario exported datasets (e.g. the disrupted orders/riders CSVs for Scenario A/B/C) if you want to persist them for offline inspection. Currently scenarios are generated in-memory by src/disruption.py.
