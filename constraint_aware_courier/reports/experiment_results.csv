@@ -1,0 +1,73 @@
+Scenario,Metric,Baseline,CABA,Improvement (%)
+Normal Day,Total Distance (km),4148.087,3468.305,16.39
+Normal Day,Avg Distance / Order (km),4.148,4.24,-2.22
+Normal Day,Number of Batches,220.0,187.0,15.0
+Normal Day,Average Batch Size,4.545,4.374,3.76
+Normal Day,Deadline Violations,302.0,0.0,100.0
+Normal Day,Product Incompatibility Violations,115.0,0.0,100.0
+Normal Day,Capacity Violations,0.0,0.0,N/A
+Normal Day,Pickup Readiness Violations,154.0,0.0,100.0
+Normal Day,Workload Violations,92.0,0.0,100.0
+Normal Day,Average Rider Workload (min),230.346,46.532,79.8
+Normal Day,Maximum Rider Workload (min),1139.72,74.98,93.42
+Normal Day,On-Time Delivery Rate,0.762,1.0,-31.23
+Normal Day,Urgent Order On-Time Rate,0.565,1.0,-77.14
+Normal Day,Unassigned Orders,0.0,182.0,N/A
+Normal Day,Execution Time (sec),4.12,13.122,-218.51
+Normal Day,Distance Saved (km),-,679.78,-
+Normal Day,Distance Saved (%),-,16.39,-
+Normal Day,Orders Recovered via Re-evaluation Queue,-,0.0,-
+Disruption A: Rider Capacity Loss,Total Distance (km),4182.705,2950.184,29.47
+Disruption A: Rider Capacity Loss,Avg Distance / Order (km),4.183,4.384,-4.8
+Disruption A: Rider Capacity Loss,Number of Batches,210.0,158.0,24.76
+Disruption A: Rider Capacity Loss,Average Batch Size,4.762,4.259,10.55
+Disruption A: Rider Capacity Loss,Deadline Violations,419.0,0.0,100.0
+Disruption A: Rider Capacity Loss,Product Incompatibility Violations,106.0,0.0,100.0
+Disruption A: Rider Capacity Loss,Capacity Violations,0.0,0.0,N/A
+Disruption A: Rider Capacity Loss,Pickup Readiness Violations,125.0,0.0,100.0
+Disruption A: Rider Capacity Loss,Workload Violations,78.0,0.0,100.0
+Disruption A: Rider Capacity Loss,Average Rider Workload (min),216.918,45.437,79.05
+Disruption A: Rider Capacity Loss,Maximum Rider Workload (min),1003.09,73.94,92.63
+Disruption A: Rider Capacity Loss,On-Time Delivery Rate,0.669,1.0,-49.48
+Disruption A: Rider Capacity Loss,Urgent Order On-Time Rate,0.427,1.0,-133.96
+Disruption A: Rider Capacity Loss,Unassigned Orders,0.0,327.0,N/A
+Disruption A: Rider Capacity Loss,Execution Time (sec),4.438,17.068,-284.6
+Disruption A: Rider Capacity Loss,Distance Saved (km),-,1232.52,-
+Disruption A: Rider Capacity Loss,Distance Saved (%),-,29.47,-
+Disruption A: Rider Capacity Loss,Orders Recovered via Re-evaluation Queue,-,0.0,-
+Disruption B: Travel Delay,Total Distance (km),4064.953,2732.055,32.79
+Disruption B: Travel Delay,Avg Distance / Order (km),4.065,4.06,0.13
+Disruption B: Travel Delay,Number of Batches,212.0,159.0,25.0
+Disruption B: Travel Delay,Average Batch Size,4.717,4.233,10.27
+Disruption B: Travel Delay,Deadline Violations,461.0,0.0,100.0
+Disruption B: Travel Delay,Product Incompatibility Violations,116.0,0.0,100.0
+Disruption B: Travel Delay,Capacity Violations,0.0,0.0,N/A
+Disruption B: Travel Delay,Pickup Readiness Violations,123.0,0.0,100.0
+Disruption B: Travel Delay,Workload Violations,75.0,0.0,100.0
+Disruption B: Travel Delay,Average Rider Workload (min),210.338,45.324,78.45
+Disruption B: Travel Delay,Maximum Rider Workload (min),1139.72,73.94,93.51
+Disruption B: Travel Delay,On-Time Delivery Rate,0.623,1.0,-60.51
+Disruption B: Travel Delay,Urgent Order On-Time Rate,0.419,1.0,-138.46
+Disruption B: Travel Delay,Unassigned Orders,0.0,327.0,N/A
+Disruption B: Travel Delay,Execution Time (sec),4.381,18.684,-326.46
+Disruption B: Travel Delay,Distance Saved (km),-,1332.9,-
+Disruption B: Travel Delay,Distance Saved (%),-,32.79,-
+Disruption B: Travel Delay,Orders Recovered via Re-evaluation Queue,-,0.0,-
+Disruption C: Urgent Demand Surge,Total Distance (km),4148.087,3396.513,18.12
+Disruption C: Urgent Demand Surge,Avg Distance / Order (km),4.148,4.157,-0.22
+Disruption C: Urgent Demand Surge,Number of Batches,220.0,183.0,16.82
+Disruption C: Urgent Demand Surge,Average Batch Size,4.545,4.464,1.78
+Disruption C: Urgent Demand Surge,Deadline Violations,349.0,0.0,100.0
+Disruption C: Urgent Demand Surge,Product Incompatibility Violations,115.0,0.0,100.0
+Disruption C: Urgent Demand Surge,Capacity Violations,0.0,0.0,N/A
+Disruption C: Urgent Demand Surge,Pickup Readiness Violations,154.0,0.0,100.0
+Disruption C: Urgent Demand Surge,Workload Violations,92.0,0.0,100.0
+Disruption C: Urgent Demand Surge,Average Rider Workload (min),230.346,47.468,79.39
+Disruption C: Urgent Demand Surge,Maximum Rider Workload (min),1139.72,79.45,93.03
+Disruption C: Urgent Demand Surge,On-Time Delivery Rate,0.723,1.0,-38.31
+Disruption C: Urgent Demand Surge,Urgent Order On-Time Rate,0.533,1.0,-87.67
+Disruption C: Urgent Demand Surge,Unassigned Orders,0.0,183.0,N/A
+Disruption C: Urgent Demand Surge,Execution Time (sec),4.243,12.944,-205.09
+Disruption C: Urgent Demand Surge,Distance Saved (km),-,751.57,-
+Disruption C: Urgent Demand Surge,Distance Saved (%),-,18.12,-
+Disruption C: Urgent Demand Surge,Orders Recovered via Re-evaluation Queue,-,0.0,-

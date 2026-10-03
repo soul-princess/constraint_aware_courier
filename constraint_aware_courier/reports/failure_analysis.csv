@@ -1,0 +1,1020 @@
+Scenario,Algorithm,order_id,reason,recovery_attempted,riders_tried_in_recovery
+Normal Day,CABA,ORD00603,[After recovery attempt] Deadline violation: ORD00603 predicted delivery 2025-01-06 16:15:50.871741453 misses promised deadline 2025-01-06 09:35:00 (late by 400.8 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00585,[After recovery attempt] Deadline violation: ORD00585 predicted delivery 2025-01-06 16:13:20.818951638 misses promised deadline 2025-01-06 09:45:00 (late by 388.3 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00182,[After recovery attempt] Deadline violation: ORD00182 predicted delivery 2025-01-06 16:13:41.424725749 misses promised deadline 2025-01-06 10:05:00 (late by 368.7 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00142,[After recovery attempt] Deadline violation: ORD00142 predicted delivery 2025-01-06 16:14:52.228518010 misses promised deadline 2025-01-06 09:56:00 (late by 378.9 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00619,[After recovery attempt] Deadline violation: ORD00619 predicted delivery 2025-01-06 16:08:07.275490495 misses promised deadline 2025-01-06 09:56:00 (late by 372.1 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00759,[After recovery attempt] Deadline violation: ORD00759 predicted delivery 2025-01-06 16:17:18.464803367 misses promised deadline 2025-01-06 10:01:00 (late by 376.3 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00525,[After recovery attempt] Deadline violation: ORD00525 predicted delivery 2025-01-06 16:23:19.730865904 misses promised deadline 2025-01-06 10:33:00 (late by 350.3 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00487,[After recovery attempt] Deadline violation: ORD00487 predicted delivery 2025-01-06 16:15:13.535104507 misses promised deadline 2025-01-06 10:06:00 (late by 369.2 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00412,[After recovery attempt] Deadline violation: ORD00412 predicted delivery 2025-01-06 16:17:53.575016265 misses promised deadline 2025-01-06 09:41:00 (late by 396.9 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00715,[After recovery attempt] Deadline violation: ORD00715 predicted delivery 2025-01-06 16:07:56.142664398 misses promised deadline 2025-01-06 09:56:00 (late by 371.9 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00803,[After recovery attempt] Deadline violation: ORD00803 predicted delivery 2025-01-06 16:16:42.726727577 misses promised deadline 2025-01-06 10:44:00 (late by 332.7 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00921,[After recovery attempt] Deadline violation: ORD00921 predicted delivery 2025-01-06 16:14:00.884132978 misses promised deadline 2025-01-06 10:02:00 (late by 372.0 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00148,[After recovery attempt] Deadline violation: ORD00148 predicted delivery 2025-01-06 16:08:41.180534432 misses promised deadline 2025-01-06 10:23:00 (late by 345.7 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00103,[After recovery attempt] Deadline violation: ORD00103 predicted delivery 2025-01-06 16:08:00.930862486 misses promised deadline 2025-01-06 10:35:00 (late by 333.0 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00749,[After recovery attempt] Deadline violation: ORD00749 predicted delivery 2025-01-06 16:18:53.158011195 misses promised deadline 2025-01-06 10:25:00 (late by 353.9 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00039,[After recovery attempt] Deadline violation: ORD00039 predicted delivery 2025-01-06 16:20:10.950350221 misses promised deadline 2025-01-06 10:31:00 (late by 349.2 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00895,[After recovery attempt] Deadline violation: ORD00895 predicted delivery 2025-01-06 16:12:13.266489028 misses promised deadline 2025-01-06 10:35:00 (late by 337.2 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00692,[After recovery attempt] Deadline violation: ORD00692 predicted delivery 2025-01-06 16:17:00.885502680 misses promised deadline 2025-01-06 10:27:00 (late by 350.0 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00089,[After recovery attempt] Deadline violation: ORD00089 predicted delivery 2025-01-06 16:17:36.275619137 misses promised deadline 2025-01-06 10:45:00 (late by 332.6 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00654,[After recovery attempt] Deadline violation: ORD00654 predicted delivery 2025-01-06 16:11:32.784373749 misses promised deadline 2025-01-06 10:26:00 (late by 345.5 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00356,[After recovery attempt] Deadline violation: ORD00356 predicted delivery 2025-01-06 16:21:28.007143761 misses promised deadline 2025-01-06 10:32:00 (late by 349.5 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00351,[After recovery attempt] Deadline violation: ORD00351 predicted delivery 2025-01-06 16:15:44.917542619 misses promised deadline 2025-01-06 10:42:00 (late by 333.7 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00336,[After recovery attempt] Deadline violation: ORD00336 predicted delivery 2025-01-06 16:22:58.049524437 misses promised deadline 2025-01-06 10:47:00 (late by 336.0 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00853,[After recovery attempt] Deadline violation: ORD00853 predicted delivery 2025-01-06 16:17:15.568975162 misses promised deadline 2025-01-06 11:11:00 (late by 306.3 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00087,[After recovery attempt] Deadline violation: ORD00087 predicted delivery 2025-01-06 16:17:31.036664044 misses promised deadline 2025-01-06 10:30:00 (late by 347.5 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00195,[After recovery attempt] Deadline violation: ORD00195 predicted delivery 2025-01-06 16:12:57.208551390 misses promised deadline 2025-01-06 10:28:00 (late by 345.0 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00123,[After recovery attempt] Deadline violation: ORD00123 predicted delivery 2025-01-06 16:12:03.219166104 misses promised deadline 2025-01-06 10:57:00 (late by 315.1 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00581,[After recovery attempt] Deadline violation: ORD00581 predicted delivery 2025-01-06 16:11:34.380977311 misses promised deadline 2025-01-06 10:37:00 (late by 334.6 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00091,[After recovery attempt] Deadline violation: ORD00091 predicted delivery 2025-01-06 16:13:28.254413975 misses promised deadline 2025-01-06 10:46:00 (late by 327.5 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00028,[After recovery attempt] Deadline violation: ORD00028 predicted delivery 2025-01-06 16:15:40.944266856 misses promised deadline 2025-01-06 10:55:00 (late by 320.7 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00116,[After recovery attempt] Deadline violation: ORD00116 predicted delivery 2025-01-06 16:14:06.637730895 misses promised deadline 2025-01-06 10:41:00 (late by 333.1 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00645,[After recovery attempt] Deadline violation: ORD00645 predicted delivery 2025-01-06 16:12:09.475001582 misses promised deadline 2025-01-06 11:00:00 (late by 312.2 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00663,[After recovery attempt] Deadline violation: ORD00663 predicted delivery 2025-01-06 16:17:08.527236140 misses promised deadline 2025-01-06 10:49:00 (late by 328.1 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00979,[After recovery attempt] Deadline violation: ORD00979 predicted delivery 2025-01-06 16:15:12.043265530 misses promised deadline 2025-01-06 11:13:00 (late by 302.2 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00063,[After recovery attempt] Deadline violation: ORD00063 predicted delivery 2025-01-06 16:16:46.940464894 misses promised deadline 2025-01-06 11:34:00 (late by 282.8 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00272,[After recovery attempt] Deadline violation: ORD00272 predicted delivery 2025-01-06 16:12:15.825409501 misses promised deadline 2025-01-06 11:23:00 (late by 289.3 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00797,[After recovery attempt] Deadline violation: ORD00797 predicted delivery 2025-01-06 16:16:45.502350132 misses promised deadline 2025-01-06 11:02:00 (late by 314.8 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00622,[After recovery attempt] Deadline violation: ORD00622 predicted delivery 2025-01-06 16:11:07.857469667 misses promised deadline 2025-01-06 11:26:00 (late by 285.1 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00805,[After recovery attempt] Deadline violation: ORD00805 predicted delivery 2025-01-06 16:14:38.228911728 misses promised deadline 2025-01-06 11:14:00 (late by 300.6 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00393,[After recovery attempt] Deadline violation: ORD00393 predicted delivery 2025-01-06 16:08:26.903806459 misses promised deadline 2025-01-06 11:08:00 (late by 300.4 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00726,[After recovery attempt] Deadline violation: ORD00726 predicted delivery 2025-01-06 16:13:50.619387350 misses promised deadline 2025-01-06 10:58:00 (late by 315.8 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00156,[After recovery attempt] Deadline violation: ORD00156 predicted delivery 2025-01-06 16:15:23.487002695 misses promised deadline 2025-01-06 11:19:00 (late by 296.4 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00213,[After recovery attempt] Deadline violation: ORD00213 predicted delivery 2025-01-06 16:17:15.105843526 misses promised deadline 2025-01-06 11:17:00 (late by 300.3 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00937,[After recovery attempt] Deadline violation: ORD00937 predicted delivery 2025-01-06 16:14:27.366243578 misses promised deadline 2025-01-06 11:06:00 (late by 308.5 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00774,[After recovery attempt] Deadline violation: ORD00774 predicted delivery 2025-01-06 16:19:15.281459559 misses promised deadline 2025-01-06 11:30:00 (late by 289.3 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00296,[After recovery attempt] Deadline violation: ORD00296 predicted delivery 2025-01-06 16:18:17.469557266 misses promised deadline 2025-01-06 11:13:00 (late by 305.3 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00101,[After recovery attempt] Deadline violation: ORD00101 predicted delivery 2025-01-06 16:12:52.108931279 misses promised deadline 2025-01-06 11:02:00 (late by 310.9 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00641,[After recovery attempt] Deadline violation: ORD00641 predicted delivery 2025-01-06 16:15:53.520517239 misses promised deadline 2025-01-06 11:10:00 (late by 305.9 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00793,[After recovery attempt] Deadline violation: ORD00793 predicted delivery 2025-01-06 16:12:23.049209012 misses promised deadline 2025-01-06 11:08:00 (late by 304.4 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00978,[After recovery attempt] Deadline violation: ORD00978 predicted delivery 2025-01-06 16:14:34.129310907 misses promised deadline 2025-01-06 11:24:00 (late by 290.6 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00191,[After recovery attempt] Deadline violation: ORD00191 predicted delivery 2025-01-06 16:18:35.114217533 misses promised deadline 2025-01-06 11:25:00 (late by 293.6 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00768,[After recovery attempt] Deadline violation: ORD00768 predicted delivery 2025-01-06 16:09:05.809897809 misses promised deadline 2025-01-06 11:16:00 (late by 293.1 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00224,[After recovery attempt] Deadline violation: ORD00224 predicted delivery 2025-01-06 16:16:59.651188804 misses promised deadline 2025-01-06 11:17:00 (late by 300.0 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00382,[After recovery attempt] Deadline violation: ORD00382 predicted delivery 2025-01-06 16:20:01.932517134 misses promised deadline 2025-01-06 11:30:00 (late by 290.0 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00253,[After recovery attempt] Deadline violation: ORD00253 predicted delivery 2025-01-06 16:16:25.037129515 misses promised deadline 2025-01-06 11:20:00 (late by 296.4 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00064,[After recovery attempt] Deadline violation: ORD00064 predicted delivery 2025-01-06 16:15:33.962928518 misses promised deadline 2025-01-06 11:35:00 (late by 280.6 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00237,[After recovery attempt] Deadline violation: ORD00237 predicted delivery 2025-01-06 16:19:40.763460756 misses promised deadline 2025-01-06 11:36:00 (late by 283.7 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00348,[After recovery attempt] Deadline violation: ORD00348 predicted delivery 2025-01-06 16:10:40.465094622 misses promised deadline 2025-01-06 11:21:00 (late by 289.7 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00834,[After recovery attempt] Deadline violation: ORD00834 predicted delivery 2025-01-06 16:11:33.130909606 misses promised deadline 2025-01-06 11:37:00 (late by 274.6 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00475,[After recovery attempt] Deadline violation: ORD00475 predicted delivery 2025-01-06 16:16:10.812839334 misses promised deadline 2025-01-06 11:39:00 (late by 277.2 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00241,[After recovery attempt] Deadline violation: ORD00241 predicted delivery 2025-01-06 16:10:53.440137102 misses promised deadline 2025-01-06 11:30:00 (late by 280.9 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00608,[After recovery attempt] Deadline violation: ORD00608 predicted delivery 2025-01-06 16:16:43.446171230 misses promised deadline 2025-01-06 11:50:00 (late by 266.7 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00078,[After recovery attempt] Deadline violation: ORD00078 predicted delivery 2025-01-06 16:15:21.594988982 misses promised deadline 2025-01-06 11:27:00 (late by 288.4 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00153,[After recovery attempt] Deadline violation: ORD00153 predicted delivery 2025-01-06 16:17:32.270435274 misses promised deadline 2025-01-06 11:54:00 (late by 263.5 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00167,[After recovery attempt] Deadline violation: ORD00167 predicted delivery 2025-01-06 16:12:08.997081325 misses promised deadline 2025-01-06 11:37:00 (late by 275.1 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00277,[After recovery attempt] Deadline violation: ORD00277 predicted delivery 2025-01-06 16:07:15.205297645 misses promised deadline 2025-01-06 11:57:00 (late by 250.3 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00164,[After recovery attempt] Deadline violation: ORD00164 predicted delivery 2025-01-06 16:11:43.227506215 misses promised deadline 2025-01-06 11:53:00 (late by 258.7 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00354,[After recovery attempt] Deadline violation: ORD00354 predicted delivery 2025-01-06 16:17:31.068085010 misses promised deadline 2025-01-06 12:07:00 (late by 250.5 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00462,[After recovery attempt] Deadline violation: ORD00462 predicted delivery 2025-01-06 16:12:57.704789783 misses promised deadline 2025-01-06 11:38:00 (late by 275.0 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00634,[After recovery attempt] Deadline violation: ORD00634 predicted delivery 2025-01-06 16:15:52.820118549 misses promised deadline 2025-01-06 12:04:00 (late by 251.9 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00820,[After recovery attempt] Deadline violation: ORD00820 predicted delivery 2025-01-06 16:14:34.076042603 misses promised deadline 2025-01-06 12:02:00 (late by 252.6 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00777,[After recovery attempt] Deadline violation: ORD00777 predicted delivery 2025-01-06 16:16:06.295309020 misses promised deadline 2025-01-06 12:02:00 (late by 254.1 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00170,[After recovery attempt] Deadline violation: ORD00170 predicted delivery 2025-01-06 16:15:02.300624040 misses promised deadline 2025-01-06 11:38:00 (late by 277.0 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00620,[After recovery attempt] Deadline violation: ORD00620 predicted delivery 2025-01-06 16:19:14.178937087 misses promised deadline 2025-01-06 11:57:00 (late by 262.2 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00498,[After recovery attempt] Deadline violation: ORD00498 predicted delivery 2025-01-06 16:19:53.277258686 misses promised deadline 2025-01-06 11:59:00 (late by 260.9 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00056,[After recovery attempt] Deadline violation: ORD00056 predicted delivery 2025-01-06 16:11:21.373168769 misses promised deadline 2025-01-06 11:58:00 (late by 253.4 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00136,[After recovery attempt] Deadline violation: ORD00136 predicted delivery 2025-01-06 16:16:48.084384324 misses promised deadline 2025-01-06 11:51:00 (late by 265.8 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00019,[After recovery attempt] Deadline violation: ORD00019 predicted delivery 2025-01-06 16:14:34.613434612 misses promised deadline 2025-01-06 12:03:00 (late by 251.6 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00067,[After recovery attempt] Deadline violation: ORD00067 predicted delivery 2025-01-06 16:09:56.252933649 misses promised deadline 2025-01-06 11:59:00 (late by 250.9 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00190,[After recovery attempt] Deadline violation: ORD00190 predicted delivery 2025-01-06 16:19:51.715981306 misses promised deadline 2025-01-06 12:15:00 (late by 244.9 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00423,[After recovery attempt] Deadline violation: ORD00423 predicted delivery 2025-01-06 16:17:34.456250841 misses promised deadline 2025-01-06 12:17:00 (late by 240.6 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00463,[After recovery attempt] Deadline violation: ORD00463 predicted delivery 2025-01-06 16:15:22.386139037 misses promised deadline 2025-01-06 12:32:00 (late by 223.4 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00427,[After recovery attempt] Deadline violation: ORD00427 predicted delivery 2025-01-06 16:12:46.756925369 misses promised deadline 2025-01-06 12:34:00 (late by 218.8 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00580,[After recovery attempt] Deadline violation: ORD00580 predicted delivery 2025-01-06 16:12:48.632624505 misses promised deadline 2025-01-06 12:41:00 (late by 211.8 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00849,[After recovery attempt] Deadline violation: ORD00849 predicted delivery 2025-01-06 16:15:55.592674269 misses promised deadline 2025-01-06 12:32:00 (late by 223.9 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00778,[After recovery attempt] Deadline violation: ORD00778 predicted delivery 2025-01-06 16:17:57.941499782 misses promised deadline 2025-01-06 12:39:00 (late by 219.0 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00494,[After recovery attempt] Deadline violation: ORD00494 predicted delivery 2025-01-06 16:15:09.791248288 misses promised deadline 2025-01-06 12:45:00 (late by 210.2 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00420,[After recovery attempt] Deadline violation: ORD00420 predicted delivery 2025-01-06 16:21:52.321015523 misses promised deadline 2025-01-06 13:00:00 (late by 201.9 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00746,[After recovery attempt] Deadline violation: ORD00746 predicted delivery 2025-01-06 16:21:48.029294581 misses promised deadline 2025-01-06 12:57:00 (late by 204.8 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00176,[After recovery attempt] Deadline violation: ORD00176 predicted delivery 2025-01-06 16:15:15.005356488 misses promised deadline 2025-01-06 13:02:00 (late by 193.3 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00991,[After recovery attempt] Deadline violation: ORD00991 predicted delivery 2025-01-06 16:16:51.782542792 misses promised deadline 2025-01-06 13:01:00 (late by 195.9 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00784,[After recovery attempt] Deadline violation: ORD00784 predicted delivery 2025-01-06 16:11:11.840980217 misses promised deadline 2025-01-06 13:10:00 (late by 181.2 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00403,[After recovery attempt] Deadline violation: ORD00403 predicted delivery 2025-01-06 16:14:21.188628605 misses promised deadline 2025-01-06 10:00:00 (late by 374.4 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00918,[After recovery attempt] Deadline violation: ORD00918 predicted delivery 2025-01-06 16:13:23.204678198 misses promised deadline 2025-01-06 09:46:00 (late by 387.4 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00922,[After recovery attempt] Deadline violation: ORD00922 predicted delivery 2025-01-06 16:12:27.868253156 misses promised deadline 2025-01-06 09:55:00 (late by 377.5 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00140,[After recovery attempt] Deadline violation: ORD00140 predicted delivery 2025-01-06 16:14:57.117625243 misses promised deadline 2025-01-06 12:08:00 (late by 247.0 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00724,[After recovery attempt] Deadline violation: ORD00724 predicted delivery 2025-01-06 16:12:19.961373904 misses promised deadline 2025-01-06 10:17:00 (late by 355.3 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00694,[After recovery attempt] Deadline violation: ORD00694 predicted delivery 2025-01-06 16:17:51.236389439 misses promised deadline 2025-01-06 10:27:00 (late by 350.9 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00098,[After recovery attempt] Deadline violation: ORD00098 predicted delivery 2025-01-06 16:14:29.425259748 misses promised deadline 2025-01-06 11:43:00 (late by 271.5 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00942,[After recovery attempt] Deadline violation: ORD00942 predicted delivery 2025-01-06 16:09:53.441467482 misses promised deadline 2025-01-06 09:46:00 (late by 383.9 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00301,[After recovery attempt] Deadline violation: ORD00301 predicted delivery 2025-01-06 16:11:04.971547103 misses promised deadline 2025-01-06 10:53:00 (late by 318.1 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00538,[After recovery attempt] Deadline violation: ORD00538 predicted delivery 2025-01-06 16:15:15.577397985 misses promised deadline 2025-01-06 12:36:00 (late by 219.3 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00552,[After recovery attempt] Deadline violation: ORD00552 predicted delivery 2025-01-06 16:14:10.102500124 misses promised deadline 2025-01-06 09:42:00 (late by 392.2 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00060,[After recovery attempt] Deadline violation: ORD00060 predicted delivery 2025-01-06 16:10:22.924142608 misses promised deadline 2025-01-06 10:52:00 (late by 318.4 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00618,[After recovery attempt] Deadline violation: ORD00618 predicted delivery 2025-01-06 16:19:24.236888943 misses promised deadline 2025-01-06 12:29:00 (late by 230.4 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00493,[After recovery attempt] Deadline violation: ORD00493 predicted delivery 2025-01-06 16:14:09.912680220 misses promised deadline 2025-01-06 10:44:00 (late by 330.2 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00617,[After recovery attempt] Deadline violation: ORD00617 predicted delivery 2025-01-06 16:12:58.710757127 misses promised deadline 2025-01-06 11:25:00 (late by 288.0 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00239,[After recovery attempt] Deadline violation: ORD00239 predicted delivery 2025-01-06 16:10:40.668286575 misses promised deadline 2025-01-06 11:30:00 (late by 280.7 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00858,[After recovery attempt] Deadline violation: ORD00858 predicted delivery 2025-01-06 16:15:20.226187583 misses promised deadline 2025-01-06 12:10:00 (late by 245.3 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00953,[After recovery attempt] Deadline violation: ORD00953 predicted delivery 2025-01-06 16:15:30.298331154 misses promised deadline 2025-01-06 09:49:00 (late by 386.5 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00946,[After recovery attempt] Deadline violation: ORD00946 predicted delivery 2025-01-06 16:15:56.094658686 misses promised deadline 2025-01-06 11:07:00 (late by 308.9 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00124,[After recovery attempt] Deadline violation: ORD00124 predicted delivery 2025-01-06 16:14:16.530252647 misses promised deadline 2025-01-06 10:41:00 (late by 333.3 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00222,[After recovery attempt] Deadline violation: ORD00222 predicted delivery 2025-01-06 16:16:42.623299363 misses promised deadline 2025-01-06 09:54:00 (late by 382.7 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00280,[After recovery attempt] Deadline violation: ORD00280 predicted delivery 2025-01-06 16:16:39.622224935 misses promised deadline 2025-01-06 10:12:00 (late by 364.7 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00033,[After recovery attempt] Deadline violation: ORD00033 predicted delivery 2025-01-06 16:12:44.978139890 misses promised deadline 2025-01-06 11:39:00 (late by 273.7 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00454,[After recovery attempt] Deadline violation: ORD00454 predicted delivery 2025-01-06 16:19:20.366478053 misses promised deadline 2025-01-06 10:44:00 (late by 335.3 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00969,[After recovery attempt] Deadline violation: ORD00969 predicted delivery 2025-01-06 16:12:16.814432192 misses promised deadline 2025-01-06 12:44:00 (late by 208.3 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00702,[After recovery attempt] Deadline violation: ORD00702 predicted delivery 2025-01-06 16:18:12.484791661 misses promised deadline 2025-01-06 10:41:00 (late by 337.2 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00350,[After recovery attempt] Deadline violation: ORD00350 predicted delivery 2025-01-06 16:18:14.229193299 misses promised deadline 2025-01-06 10:09:00 (late by 369.2 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00547,[After recovery attempt] Deadline violation: ORD00547 predicted delivery 2025-01-06 16:13:22.395765330 misses promised deadline 2025-01-06 10:41:00 (late by 332.4 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00514,[After recovery attempt] Deadline violation: ORD00514 predicted delivery 2025-01-06 16:17:00.158656824 misses promised deadline 2025-01-06 12:08:00 (late by 249.0 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00976,[After recovery attempt] Deadline violation: ORD00976 predicted delivery 2025-01-06 16:15:59.429866754 misses promised deadline 2025-01-06 11:27:00 (late by 289.0 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00878,[After recovery attempt] Deadline violation: ORD00878 predicted delivery 2025-01-06 16:15:41.947025304 misses promised deadline 2025-01-06 11:04:00 (late by 311.7 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00872,[After recovery attempt] Deadline violation: ORD00872 predicted delivery 2025-01-06 16:17:34.546854158 misses promised deadline 2025-01-06 10:48:00 (late by 329.6 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00899,[After recovery attempt] Deadline violation: ORD00899 predicted delivery 2025-01-06 16:14:51.406753698 misses promised deadline 2025-01-06 10:39:00 (late by 335.9 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00676,[After recovery attempt] Deadline violation: ORD00676 predicted delivery 2025-01-06 16:17:55.675106714 misses promised deadline 2025-01-06 10:36:00 (late by 341.9 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00013,[After recovery attempt] Deadline violation: ORD00013 predicted delivery 2025-01-06 16:15:20.789862227 misses promised deadline 2025-01-06 11:22:00 (late by 293.3 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00331,[After recovery attempt] Deadline violation: ORD00331 predicted delivery 2025-01-06 16:12:55.398877180 misses promised deadline 2025-01-06 11:21:00 (late by 291.9 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00362,[After recovery attempt] Deadline violation: ORD00362 predicted delivery 2025-01-06 16:17:09.790784483 misses promised deadline 2025-01-06 11:37:00 (late by 280.2 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00902,[After recovery attempt] Deadline violation: ORD00902 predicted delivery 2025-01-06 16:15:25.664085567 misses promised deadline 2025-01-06 11:46:00 (late by 269.4 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00072,[After recovery attempt] Deadline violation: ORD00072 predicted delivery 2025-01-06 16:08:39.401630250 misses promised deadline 2025-01-06 13:15:00 (late by 173.7 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00184,[After recovery attempt] Deadline violation: ORD00184 predicted delivery 2025-01-06 16:13:13.041665908 misses promised deadline 2025-01-06 12:51:00 (late by 202.2 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00302,[After recovery attempt] Deadline violation: ORD00302 predicted delivery 2025-01-06 16:14:17.532941505 misses promised deadline 2025-01-06 10:51:00 (late by 323.3 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00419,[After recovery attempt] Deadline violation: ORD00419 predicted delivery 2025-01-06 16:14:45.566951842 misses promised deadline 2025-01-06 12:01:00 (late by 253.8 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00931,[After recovery attempt] Deadline violation: ORD00931 predicted delivery 2025-01-06 16:14:46.462082676 misses promised deadline 2025-01-06 11:40:00 (late by 274.8 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00070,[After recovery attempt] Deadline violation: ORD00070 predicted delivery 2025-01-06 16:15:58.139695275 misses promised deadline 2025-01-06 12:16:00 (late by 240.0 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00225,[After recovery attempt] Deadline violation: ORD00225 predicted delivery 2025-01-06 16:15:15.797827334 misses promised deadline 2025-01-06 11:10:00 (late by 305.3 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00252,[After recovery attempt] Deadline violation: ORD00252 predicted delivery 2025-01-06 16:18:35.723940506 misses promised deadline 2025-01-06 10:57:00 (late by 321.6 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00697,[After recovery attempt] Deadline violation: ORD00697 predicted delivery 2025-01-06 16:07:42.958950173 misses promised deadline 2025-01-06 12:10:00 (late by 237.7 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00181,[After recovery attempt] Deadline violation: ORD00181 predicted delivery 2025-01-06 16:11:01.889869677 misses promised deadline 2025-01-06 12:00:00 (late by 251.0 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00130,[After recovery attempt] Deadline violation: ORD00130 predicted delivery 2025-01-06 16:13:52.184650981 misses promised deadline 2025-01-06 13:30:00 (late by 163.9 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00367,[After recovery attempt] Deadline violation: ORD00367 predicted delivery 2025-01-06 16:16:12.413773069 misses promised deadline 2025-01-06 12:01:00 (late by 255.2 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00297,[After recovery attempt] Deadline violation: ORD00297 predicted delivery 2025-01-06 16:11:57.860658450 misses promised deadline 2025-01-06 11:15:00 (late by 297.0 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00960,[After recovery attempt] Deadline violation: ORD00960 predicted delivery 2025-01-06 16:09:58.485857338 misses promised deadline 2025-01-06 12:54:00 (late by 196.0 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00649,[After recovery attempt] Deadline violation: ORD00649 predicted delivery 2025-01-06 16:11:49.769848133 misses promised deadline 2025-01-06 12:26:00 (late by 225.8 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00177,[After recovery attempt] Deadline violation: ORD00177 predicted delivery 2025-01-06 16:17:34.350291936 misses promised deadline 2025-01-06 12:04:00 (late by 253.6 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00782,[After recovery attempt] Deadline violation: ORD00782 predicted delivery 2025-01-06 16:15:42.883086893 misses promised deadline 2025-01-06 11:55:00 (late by 260.7 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00564,[After recovery attempt] Deadline violation: ORD00564 predicted delivery 2025-01-06 16:13:35.125063488 misses promised deadline 2025-01-06 13:02:00 (late by 191.6 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00795,[After recovery attempt] Deadline violation: ORD00795 predicted delivery 2025-01-06 16:12:38.766226900 misses promised deadline 2025-01-06 11:36:00 (late by 276.6 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00262,[After recovery attempt] Deadline violation: ORD00262 predicted delivery 2025-01-06 16:16:43.637638320 misses promised deadline 2025-01-06 12:28:00 (late by 228.7 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00437,[After recovery attempt] Deadline violation: ORD00437 predicted delivery 2025-01-06 16:17:05.826358208 misses promised deadline 2025-01-06 12:34:00 (late by 223.1 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00838,[After recovery attempt] Deadline violation: ORD00838 predicted delivery 2025-01-06 16:17:38.098561707 misses promised deadline 2025-01-06 12:37:00 (late by 220.6 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00533,[After recovery attempt] Deadline violation: ORD00533 predicted delivery 2025-01-06 16:15:33.718626126 misses promised deadline 2025-01-06 12:01:00 (late by 254.6 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00951,[After recovery attempt] Deadline violation: ORD00951 predicted delivery 2025-01-06 16:13:49.217914344 misses promised deadline 2025-01-06 12:31:00 (late by 222.8 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00766,[After recovery attempt] Deadline violation: ORD00766 predicted delivery 2025-01-06 16:20:04.030137235 misses promised deadline 2025-01-06 12:56:00 (late by 204.1 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00873,[After recovery attempt] Deadline violation: ORD00873 predicted delivery 2025-01-06 16:06:41.070177253 misses promised deadline 2025-01-06 13:01:00 (late by 185.7 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00643,[After recovery attempt] Deadline violation: ORD00643 predicted delivery 2025-01-06 16:19:50.009577751 misses promised deadline 2025-01-06 12:19:00 (late by 240.8 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00186,[After recovery attempt] Deadline violation: ORD00186 predicted delivery 2025-01-06 16:15:41.671000079 misses promised deadline 2025-01-06 12:45:00 (late by 210.7 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00370,[After recovery attempt] Deadline violation: ORD00370 predicted delivery 2025-01-06 16:15:05.756843141 misses promised deadline 2025-01-06 13:05:00 (late by 190.1 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00671,[After recovery attempt] Deadline violation: ORD00671 predicted delivery 2025-01-06 16:12:09.027362299 misses promised deadline 2025-01-06 12:53:00 (late by 199.2 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00066,[After recovery attempt] Deadline violation: ORD00066 predicted delivery 2025-01-06 16:09:48.597468036 misses promised deadline 2025-01-06 11:44:00 (late by 265.8 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00594,[After recovery attempt] Deadline violation: ORD00594 predicted delivery 2025-01-06 16:17:31.355345935 misses promised deadline 2025-01-06 11:32:00 (late by 285.5 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00059,[After recovery attempt] Deadline violation: ORD00059 predicted delivery 2025-01-06 16:12:19.330474728 misses promised deadline 2025-01-06 13:14:00 (late by 178.3 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00300,[After recovery attempt] Deadline violation: ORD00300 predicted delivery 2025-01-06 16:13:15.471185503 misses promised deadline 2025-01-06 11:42:00 (late by 271.3 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00415,[After recovery attempt] Deadline violation: ORD00415 predicted delivery 2025-01-06 16:10:31.721595647 misses promised deadline 2025-01-06 13:00:00 (late by 190.5 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00438,[After recovery attempt] Deadline violation: ORD00438 predicted delivery 2025-01-06 16:18:02.093026845 misses promised deadline 2025-01-06 12:50:00 (late by 208.0 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00826,[After recovery attempt] Deadline violation: ORD00826 predicted delivery 2025-01-06 16:14:20.412644238 misses promised deadline 2025-01-06 13:30:00 (late by 164.3 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00303,[After recovery attempt] Deadline violation: ORD00303 predicted delivery 2025-01-06 16:12:39.931722286 misses promised deadline 2025-01-06 12:26:00 (late by 226.7 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00896,[After recovery attempt] Deadline violation: ORD00896 predicted delivery 2025-01-06 16:14:38.391866822 misses promised deadline 2025-01-06 12:16:00 (late by 238.6 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00288,[After recovery attempt] Deadline violation: ORD00288 predicted delivery 2025-01-06 16:18:46.305185478 misses promised deadline 2025-01-06 12:49:00 (late by 209.8 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00955,[After recovery attempt] Deadline violation: ORD00955 predicted delivery 2025-01-06 16:11:51.595865511 misses promised deadline 2025-01-06 12:38:00 (late by 213.9 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00975,[After recovery attempt] Deadline violation: ORD00975 predicted delivery 2025-01-06 16:17:20.740528493 misses promised deadline 2025-01-06 12:19:00 (late by 238.3 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00557,[After recovery attempt] Deadline violation: ORD00557 predicted delivery 2025-01-06 16:14:39.315298050 misses promised deadline 2025-01-06 12:24:00 (late by 230.7 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00720,[After recovery attempt] Deadline violation: ORD00720 predicted delivery 2025-01-06 16:21:35.688717326 misses promised deadline 2025-01-06 12:12:00 (late by 249.6 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00701,[After recovery attempt] Deadline violation: ORD00701 predicted delivery 2025-01-06 16:17:36.140016152 misses promised deadline 2025-01-06 13:12:00 (late by 185.6 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00675,[After recovery attempt] Deadline violation: ORD00675 predicted delivery 2025-01-06 16:14:47.201662363 misses promised deadline 2025-01-06 12:40:00 (late by 214.8 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00537,[After recovery attempt] Deadline violation: ORD00537 predicted delivery 2025-01-06 16:17:21.159353147 misses promised deadline 2025-01-06 12:45:00 (late by 212.4 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00898,[After recovery attempt] Deadline violation: ORD00898 predicted delivery 2025-01-06 16:14:32.240690688 misses promised deadline 2025-01-06 12:34:00 (late by 220.5 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00113,[After recovery attempt] Deadline violation: ORD00113 predicted delivery 2025-01-06 16:13:09.502300250 misses promised deadline 2025-01-06 12:52:00 (late by 201.2 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00434,[After recovery attempt] Deadline violation: ORD00434 predicted delivery 2025-01-06 16:15:39.005351953 misses promised deadline 2025-01-06 13:15:00 (late by 180.7 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00531,[After recovery attempt] Deadline violation: ORD00531 predicted delivery 2025-01-06 16:16:22.073415101 misses promised deadline 2025-01-06 13:13:00 (late by 183.4 min incl. buffer),Yes,55
+Normal Day,CABA,ORD00632,[After recovery attempt] Deadline violation: ORD00632 predicted delivery 2025-01-06 16:15:21.234184950 misses promised deadline 2025-01-06 12:58:00 (late by 197.4 min incl. buffer),Yes,55
+Disruption A: Rider Capacity Loss,CABA,ORD00017,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00220,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00032,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00603,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00389,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00585,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00666,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00182,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00236,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00545,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00142,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00276,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00041,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00619,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00345,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00461,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00759,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00927,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00525,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00487,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00412,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00095,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00920,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00715,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00881,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00685,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00803,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00921,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00148,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00242,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00230,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00103,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00576,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00268,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00749,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00039,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00416,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00440,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00895,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00107,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00692,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00089,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00654,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00308,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00356,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00351,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00336,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00430,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00853,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00087,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00195,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00123,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00126,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00581,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00727,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00008,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00091,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00116,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00645,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00663,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00575,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00979,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00063,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00725,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00272,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00392,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00797,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00622,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00805,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD01000,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00187,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00379,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00393,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00726,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00154,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00156,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00213,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00923,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00937,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00840,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00293,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00774,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00296,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00101,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00313,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00641,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00765,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00793,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00477,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00723,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00978,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00191,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00468,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00773,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00086,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00768,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00224,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00382,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00569,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00157,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00485,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00377,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00570,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00253,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00064,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00237,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00348,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00266,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00834,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00948,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00475,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00526,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00241,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00446,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00608,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00078,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00875,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00153,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00307,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00167,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00432,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00115,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00277,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00164,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00354,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00462,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00634,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00865,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00820,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00349,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00777,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00170,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00620,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00655,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00498,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00566,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00917,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00056,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00136,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00019,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00994,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00812,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00657,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00067,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00885,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00024,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00340,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00729,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00909,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00190,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00910,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00593,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00747,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00478,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00211,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00265,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00615,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00232,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00273,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00278,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00290,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00996,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00423,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00449,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00309,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00339,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00463,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00427,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00046,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00310,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00407,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00635,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00580,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00647,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00849,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00750,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00901,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00778,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00366,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00494,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00544,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00827,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00420,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00746,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00781,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00176,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00605,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00501,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00928,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00104,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00991,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00792,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00283,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00238,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00558,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00914,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00511,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00784,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00258,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00337,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00997,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00381,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00365,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00168,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00403,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00918,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00922,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00140,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00724,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00694,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00098,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00942,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00301,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00538,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00552,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00656,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00060,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00618,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00493,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00617,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00239,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00858,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00953,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00946,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00124,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00222,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00280,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00033,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00454,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00969,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00702,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00350,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00547,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00514,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00976,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00878,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00447,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00872,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00899,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00676,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00002,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00013,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00331,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00362,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00596,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00902,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00072,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00184,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00302,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00419,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00931,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00070,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00402,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00225,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00252,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00697,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00181,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00130,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00367,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00244,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00297,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00960,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00428,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00809,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00177,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00755,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00782,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00564,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00795,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00262,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00437,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00838,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00533,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00951,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00900,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00873,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00543,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00119,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00643,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00186,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00218,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00740,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00370,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00671,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00066,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00594,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00971,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00059,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00300,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00818,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00415,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00438,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00935,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00099,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00484,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00826,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00303,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00896,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00250,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00288,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00378,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00955,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00451,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00975,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00557,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00720,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00668,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00701,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00675,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00762,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00537,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00898,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00347,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00661,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00721,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00113,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00467,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00434,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00531,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00249,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00632,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00334,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00143,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00043,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00386,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00990,[After recovery attempt] Rider shift ended,Yes,42
+Disruption A: Rider Capacity Loss,CABA,ORD00358,[After recovery attempt] Rider shift ended,Yes,42
+Disruption B: Travel Delay,CABA,ORD00144,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00017,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00096,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00032,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00561,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00603,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00389,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00585,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00666,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00182,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00236,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00545,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00142,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00276,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00619,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00345,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00443,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00461,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00759,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00927,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00525,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00487,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00412,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00715,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00881,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00685,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00803,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00921,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00148,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00230,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00103,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00268,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00749,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00039,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00416,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00895,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00107,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00692,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00089,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00654,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00308,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00356,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00351,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00336,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00479,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00853,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00087,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00195,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00556,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00123,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00126,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00581,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00727,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00008,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00091,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00028,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00116,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00645,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00663,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00979,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00063,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00272,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00392,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00797,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00622,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00805,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00379,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00393,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00726,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00154,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00156,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00213,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00923,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00937,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00840,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00774,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00296,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00101,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00641,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00765,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00793,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00477,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00723,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00978,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00191,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00468,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00773,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00086,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00768,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00224,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00382,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00485,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00377,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00570,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00253,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00064,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00237,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00348,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00460,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00266,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00834,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00948,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00475,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00526,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00241,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00446,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00608,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00078,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00875,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00153,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00307,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00167,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00481,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00115,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00164,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00354,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00462,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00634,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00865,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00820,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00349,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00777,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00170,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00620,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00655,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00498,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00566,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00917,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00056,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00384,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00136,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00019,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00994,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00812,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00657,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00067,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00885,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00024,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00340,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00729,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00909,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00190,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00910,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00214,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00593,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00874,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00478,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00211,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00265,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00615,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00232,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00273,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00278,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00290,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00996,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00423,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00449,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00309,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00709,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00339,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00463,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00427,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00310,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00407,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00261,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00580,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00647,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00849,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00750,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00901,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00216,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00778,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00366,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00494,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00544,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00827,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00420,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00746,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00323,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00781,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00176,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00605,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00928,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00104,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00991,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00792,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00283,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00238,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00558,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00779,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00914,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00511,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00784,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00258,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00337,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00997,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00633,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00381,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00595,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00365,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00456,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00403,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00918,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00922,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00140,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00724,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00694,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00098,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00942,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00301,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00538,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00552,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00656,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00060,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00618,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00493,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00617,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00239,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00953,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00946,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00124,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00222,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00280,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00033,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00454,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00969,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00702,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00350,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00547,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00514,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00976,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00878,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00447,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00872,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00899,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00676,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00013,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00331,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00362,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00596,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00902,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00072,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00184,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00302,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00419,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00931,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00070,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00402,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00225,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00252,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00697,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00181,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00130,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00367,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00297,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00960,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00649,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00772,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00428,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00177,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00755,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00782,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00564,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00795,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00262,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00437,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00838,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00533,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00951,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00766,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00873,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00189,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00543,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00119,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00643,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00186,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00218,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00740,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00370,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00671,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00066,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00433,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00594,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00971,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00059,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00300,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00415,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00438,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00935,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00099,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00826,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00303,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00896,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00250,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00288,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00572,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00378,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00399,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00955,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00451,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00975,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00557,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00720,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00668,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00701,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00675,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00344,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00762,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00537,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00898,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00347,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00661,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00721,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00113,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00467,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00228,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00434,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00531,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00249,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00632,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00334,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00143,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00043,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00386,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00990,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00358,[After recovery attempt] Rider shift ended,Yes,55
+Disruption B: Travel Delay,CABA,ORD00799,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00327,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00201,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00389,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00666,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00182,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00142,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00619,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00759,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00412,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00095,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00715,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00685,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00921,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00230,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00576,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00268,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00749,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00039,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00416,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00440,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00895,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00692,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00089,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00356,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00336,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00479,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00853,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00087,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00195,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00123,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00126,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00727,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00008,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00091,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00028,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00116,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00645,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00663,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00979,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00063,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00725,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00272,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00797,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00805,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00379,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00726,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00154,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00156,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00213,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00937,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00296,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00101,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00641,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00800,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00765,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00978,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00191,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00468,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00773,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00086,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00768,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00224,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00382,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00253,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00064,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00348,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00266,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00834,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00475,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00241,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00078,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00875,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00153,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00167,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00277,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00164,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00462,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00634,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00349,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00777,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00566,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00056,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00136,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00812,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00657,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00067,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00885,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00909,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00910,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00265,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00615,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00290,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00309,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00463,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00427,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00310,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00580,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00849,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00750,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00778,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00494,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00827,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00420,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00746,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00176,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00991,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00238,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00918,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00922,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00140,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00724,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00098,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00942,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00493,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00617,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00239,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00858,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00953,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00124,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00222,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00969,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00702,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00350,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00547,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00514,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00976,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00878,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00447,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00872,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00899,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00676,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00013,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00331,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00362,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00902,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00184,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00302,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00419,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00931,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00070,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00225,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00252,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00697,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00181,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00367,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00297,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00960,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00649,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00177,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00782,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00564,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00795,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00262,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00838,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00533,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00951,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00766,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00119,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00643,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00186,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00218,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00594,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00059,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00300,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00415,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00438,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00935,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00099,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00303,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00896,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00288,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00955,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00975,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00557,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00720,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00701,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00675,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00537,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00898,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00113,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00434,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00531,[After recovery attempt] Rider shift ended,Yes,55
+Disruption C: Urgent Demand Surge,CABA,ORD00632,[After recovery attempt] Rider shift ended,Yes,55
