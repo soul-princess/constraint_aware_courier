@@ -75,6 +75,7 @@ def plot_scenario_comparison(scenario_metrics: Dict[str, dict], metric_key: str,
     return fig
 
 
+<<<<<<< HEAD
 def plot_workload_comparison_with_threshold(baseline_avg: float, baseline_max: float,
                                              caba_avg: float, caba_max: float,
                                              max_allowed: float) -> go.Figure:
@@ -97,6 +98,8 @@ def plot_workload_comparison_with_threshold(baseline_avg: float, baseline_max: f
     return fig
 
 
+=======
+>>>>>>> 95de37805618e7e20d45ecc2599cc0ba6e99c39a
 def plot_on_time_comparison(baseline_rate: float, caba_rate: float) -> go.Figure:
     fig = go.Figure(data=[
         go.Bar(name="On-Time Delivery Rate", x=["Baseline", "CABA"],

@@ -60,6 +60,7 @@ def _batches_to_dataframe(batches, orders_lookup):
     return pd.DataFrame(rows)
 
 
+<<<<<<< HEAD
 def _side_by_side_workflow_table(baseline_metrics, caba_metrics, baseline_batches, caba_batches):
     """Builds the BASELINE vs PROPOSED side-by-side comparison requested in
     the reviewer feedback: stops, route time, distance, orders, workload --
@@ -120,6 +121,8 @@ def _rejection_reasons_dataframe(caba_result):
     return pd.DataFrame(rows)
 
 
+=======
+>>>>>>> 95de37805618e7e20d45ecc2599cc0ba6e99c39a
 def _orders_to_dataframe(orders, batches):
     order_to_batch = {}
     order_to_rider = {}
@@ -157,6 +160,7 @@ def main():
         scenario_label = st.selectbox("Scenario", list(SCENARIO_OPTIONS.keys()))
         algo_view = st.selectbox("Algorithm View", ["Compare Both", "Baseline", "Constraint-Aware (CABA)"])
         st.markdown("---")
+<<<<<<< HEAD
         st.markdown(f"**Routing provider:** `{config.ROUTING_PROVIDER}`")
         st.markdown(
             "**Note:** This is a simulation using synthetic data and "
@@ -164,6 +168,12 @@ def main():
             "The routing layer is pluggable (see `src/routing.py`) with a "
             "documented, unimplemented OSRM hook for future real road "
             "routing. See `docs/limitations.md` for details."
+=======
+        st.markdown(
+            "**Note:** This is a simulation using synthetic data and "
+            "Haversine-distance routing -- not a live GPS/traffic feed. "
+            "See `docs/limitations.md` for details."
+>>>>>>> 95de37805618e7e20d45ecc2599cc0ba6e99c39a
         )
 
     scenario_key = SCENARIO_OPTIONS[scenario_label]
@@ -198,6 +208,7 @@ def main():
     st.markdown("---")
 
     # ---------------------------------------------------------------
+<<<<<<< HEAD
     # Side-by-side workflow comparison (reviewer-requested)
     # ---------------------------------------------------------------
     st.subheader("🔀 Side-by-Side Workflow Comparison")
@@ -218,6 +229,8 @@ def main():
     st.markdown("---")
 
     # ---------------------------------------------------------------
+=======
+>>>>>>> 95de37805618e7e20d45ecc2599cc0ba6e99c39a
     # Comparison table
     # ---------------------------------------------------------------
     st.subheader("⚖️ Baseline vs CABA -- Metric Comparison")
@@ -253,6 +266,7 @@ def main():
     st.markdown("---")
 
     # ---------------------------------------------------------------
+<<<<<<< HEAD
     # Why was this order rejected? (reviewer-requested)
     # ---------------------------------------------------------------
     st.subheader("❓ Why Was This Order Rejected?")
@@ -278,6 +292,8 @@ def main():
     st.markdown("---")
 
     # ---------------------------------------------------------------
+=======
+>>>>>>> 95de37805618e7e20d45ecc2599cc0ba6e99c39a
     # Visualizations
     # ---------------------------------------------------------------
     st.subheader("📈 Visualizations")

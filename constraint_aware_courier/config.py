@@ -69,6 +69,7 @@ AVERAGE_SPEED_KMPH = 26.0          # average urban delivery vehicle speed
 BUILDING_ACCESS_DELAY_MIN = 5.0    # avg minutes lost per building (security/lift)
 DEFAULT_SERVICE_TIME_MIN = 3.5     # avg minutes to hand over a package
 
+<<<<<<< HEAD
 # Which routing provider src/routing.py should use for distance/time
 # calculations. "haversine" is the default and the only one implemented in
 # this prototype. "osrm" is a documented future-enhancement hook (see
@@ -79,6 +80,8 @@ DEFAULT_SERVICE_TIME_MIN = 3.5     # avg minutes to hand over a package
 ROUTING_PROVIDER = "haversine"
 OSRM_BASE_URL = None  # e.g. "http://localhost:5000" if/when OSRM is wired up
 
+=======
+>>>>>>> 95de37805618e7e20d45ecc2599cc0ba6e99c39a
 # ---------------------------------------------------------------------------
 # Rider parameters
 # ---------------------------------------------------------------------------

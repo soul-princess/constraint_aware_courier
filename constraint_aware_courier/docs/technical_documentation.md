@@ -103,6 +103,7 @@ order stated in the spec: (1) no product violations, (2) no capacity
 violations, (3) no promised-time violations, (4) reasonable workload,
 (5) reduced distance.
 
+<<<<<<< HEAD
 ## 5. Routing Layer (`src/routing.py`)
 
 Routing is implemented as a **pluggable layer**, not a single hard-coded
@@ -207,6 +208,21 @@ which rules out insertion-order luck as the explanation and confirms these
 orders are genuinely infeasible given the fleet's capacity and timing (see
 `docs/error_analysis.md` Section 5b for the full investigation, including
 the finding that 100% of unassigned orders are NORMAL/LOW priority).
+=======
+## 5. Routing Approximation (`src/routing.py`)
+
+- Distance: Haversine great-circle distance between synthetic lat/lon
+  coordinates.
+- Travel time: `distance / AVERAGE_SPEED_KMPH`, scaled by a `delay_multiplier`
+  for disruption scenarios (e.g. 1.75x for Scenario B).
+- Building access delay: fixed minutes per distinct stop
+  (`BUILDING_ACCESS_DELAY_MIN`), modelling security/lift/reception time.
+- Delivery sequencing: nearest-neighbour heuristic from the pickup hub
+  through all stops in a batch (not full TSP -- see `docs/limitations.md`).
+
+**This is a simulation, not real-time navigation** -- there is no live maps
+or traffic API involved, by design (per spec Section 9).
+>>>>>>> 95de37805618e7e20d45ecc2599cc0ba6e99c39a
 
 ## 6. Workload Calculation (`src/workload.py`)
 

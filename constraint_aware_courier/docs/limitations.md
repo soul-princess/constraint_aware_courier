@@ -22,6 +22,7 @@ disclosed in any presentation of the results.
 - **No real-time GPS or live traffic API.** Travel time is estimated as
   `distance / average_speed`, with a configurable multiplier for disruption
   scenarios. It does not reflect actual road networks, one-way streets,
+<<<<<<< HEAD
   traffic signals, or real-time congestion. Routing is implemented as a
   pluggable layer (`src/routing.py`) specifically so this can change without
   touching the batching algorithms: a documented `OSRMRoutingProvider` stub
@@ -30,6 +31,9 @@ disclosed in any presentation of the results.
   raises `NotImplementedError` rather than silently approximating real
   routing. Every number in this project's reports was generated with the
   Haversine provider.
+=======
+  traffic signals, or real-time congestion.
+>>>>>>> 95de37805618e7e20d45ecc2599cc0ba6e99c39a
 - **Haversine distance, not road distance.** Straight-line distance
   underestimates actual road travel distance, typically by a factor that
   varies by urban layout (commonly cited real-world circuity factors are

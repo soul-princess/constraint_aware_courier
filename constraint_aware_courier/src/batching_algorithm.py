@@ -278,6 +278,7 @@ def _run_single_round(orders: pd.DataFrame, rider_lookup: pd.DataFrame,
     return final_batches, [u["order_id"] for u in unassigned], unassigned, batch_counter
 
 
+<<<<<<< HEAD
 # ---------------------------------------------------------------------------
 # Recovery / re-evaluation queue (Priority 2 enhancement)
 # ---------------------------------------------------------------------------
@@ -406,6 +407,10 @@ def _recovery_pass(unassigned_orders: pd.DataFrame, rider_lookup: pd.DataFrame,
 
 def run_caba(orders: pd.DataFrame, riders: pd.DataFrame,
              delay_multiplier: float = 1.0, enable_recovery: bool = True) -> dict:
+=======
+def run_caba(orders: pd.DataFrame, riders: pd.DataFrame,
+             delay_multiplier: float = 1.0) -> dict:
+>>>>>>> 95de37805618e7e20d45ecc2599cc0ba6e99c39a
     """Run the Constraint-Aware Batching Algorithm across the FULL operating
     day, simulating repeated pickup rounds per rider until their shift ends
     or no unassigned orders remain."""
@@ -455,6 +460,7 @@ def run_caba(orders: pd.DataFrame, riders: pd.DataFrame,
             all_unassigned_reasons.append(
                 {"order_id": oid, "reason": "No rider had feasible capacity/shift time remaining"})
 
+<<<<<<< HEAD
     recovery_log: List[dict] = []
     recovered_count = 0
 
@@ -484,6 +490,8 @@ def run_caba(orders: pd.DataFrame, riders: pd.DataFrame,
         logger.info("Recovery pass: %d/%d previously-unassigned orders recovered",
                     recovered_count, len(pre_recovery_unassigned_ids))
 
+=======
+>>>>>>> 95de37805618e7e20d45ecc2599cc0ba6e99c39a
     total_distance = sum(b.total_distance_km for b in all_final_batches)
     assigned_ids = {oid for b in all_final_batches for oid in b.order_ids}
     unassigned_ids = [oid for oid in orders["order_id"] if oid not in assigned_ids]
@@ -501,6 +509,9 @@ def run_caba(orders: pd.DataFrame, riders: pd.DataFrame,
         "unassigned_reasons": all_unassigned_reasons,
         "violations": violations,
         "total_distance_km": total_distance,
+<<<<<<< HEAD
         "recovery_log": recovery_log,
         "recovered_count": recovered_count,
+=======
+>>>>>>> 95de37805618e7e20d45ecc2599cc0ba6e99c39a
     }

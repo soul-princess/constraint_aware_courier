@@ -79,6 +79,7 @@ def main():
             "Improvement (%)": "-",
         })
 
+<<<<<<< HEAD
         # failure analysis rows: unassigned orders and their reasons (CABA),
         # including whether the recovery/re-evaluation pass was attempted
         caba_result = comparison["caba_result"]
@@ -106,6 +107,21 @@ def main():
         logger.info("%s -- CABA distance saved: %.2f km (%.1f%%), recovered %d orders",
                     SCENARIO_LABELS[scenario], comparison["distance_saved_km"],
                     comparison["distance_saved_pct"], caba_result.get("recovered_count", 0))
+=======
+        # failure analysis rows: unassigned orders and their reasons (CABA)
+        caba_result = comparison["caba_result"]
+        for reason_row in caba_result.get("unassigned_reasons", [])[:200]:
+            failure_rows.append({
+                "Scenario": SCENARIO_LABELS[scenario],
+                "Algorithm": "CABA",
+                "order_id": reason_row["order_id"],
+                "reason": reason_row["reason"],
+            })
+
+        logger.info("%s -- CABA distance saved: %.2f km (%.1f%%)",
+                    SCENARIO_LABELS[scenario], comparison["distance_saved_km"],
+                    comparison["distance_saved_pct"])
+>>>>>>> 95de37805618e7e20d45ecc2599cc0ba6e99c39a
 
     results_df = pd.DataFrame(all_rows)
     results_path = os.path.join(config.REPORTS_DIR, "experiment_results.csv")

@@ -13,10 +13,16 @@ Normal Day,Maximum Rider Workload (min),1139.72,74.98,93.42
 Normal Day,On-Time Delivery Rate,0.762,1.0,-31.23
 Normal Day,Urgent Order On-Time Rate,0.565,1.0,-77.14
 Normal Day,Unassigned Orders,0.0,182.0,N/A
+<<<<<<< HEAD
 Normal Day,Execution Time (sec),4.12,13.122,-218.51
 Normal Day,Distance Saved (km),-,679.78,-
 Normal Day,Distance Saved (%),-,16.39,-
 Normal Day,Orders Recovered via Re-evaluation Queue,-,0.0,-
+=======
+Normal Day,Execution Time (sec),4.6,11.691,-154.16
+Normal Day,Distance Saved (km),-,679.78,-
+Normal Day,Distance Saved (%),-,16.39,-
+>>>>>>> 95de37805618e7e20d45ecc2599cc0ba6e99c39a
 Disruption A: Rider Capacity Loss,Total Distance (km),4182.705,2950.184,29.47
 Disruption A: Rider Capacity Loss,Avg Distance / Order (km),4.183,4.384,-4.8
 Disruption A: Rider Capacity Loss,Number of Batches,210.0,158.0,24.76
@@ -31,10 +37,16 @@ Disruption A: Rider Capacity Loss,Maximum Rider Workload (min),1003.09,73.94,92.
 Disruption A: Rider Capacity Loss,On-Time Delivery Rate,0.669,1.0,-49.48
 Disruption A: Rider Capacity Loss,Urgent Order On-Time Rate,0.427,1.0,-133.96
 Disruption A: Rider Capacity Loss,Unassigned Orders,0.0,327.0,N/A
+<<<<<<< HEAD
 Disruption A: Rider Capacity Loss,Execution Time (sec),4.438,17.068,-284.6
 Disruption A: Rider Capacity Loss,Distance Saved (km),-,1232.52,-
 Disruption A: Rider Capacity Loss,Distance Saved (%),-,29.47,-
 Disruption A: Rider Capacity Loss,Orders Recovered via Re-evaluation Queue,-,0.0,-
+=======
+Disruption A: Rider Capacity Loss,Execution Time (sec),5.098,15.743,-208.81
+Disruption A: Rider Capacity Loss,Distance Saved (km),-,1232.52,-
+Disruption A: Rider Capacity Loss,Distance Saved (%),-,29.47,-
+>>>>>>> 95de37805618e7e20d45ecc2599cc0ba6e99c39a
 Disruption B: Travel Delay,Total Distance (km),4064.953,2732.055,32.79
 Disruption B: Travel Delay,Avg Distance / Order (km),4.065,4.06,0.13
 Disruption B: Travel Delay,Number of Batches,212.0,159.0,25.0
@@ -49,10 +61,16 @@ Disruption B: Travel Delay,Maximum Rider Workload (min),1139.72,73.94,93.51
 Disruption B: Travel Delay,On-Time Delivery Rate,0.623,1.0,-60.51
 Disruption B: Travel Delay,Urgent Order On-Time Rate,0.419,1.0,-138.46
 Disruption B: Travel Delay,Unassigned Orders,0.0,327.0,N/A
+<<<<<<< HEAD
 Disruption B: Travel Delay,Execution Time (sec),4.381,18.684,-326.46
 Disruption B: Travel Delay,Distance Saved (km),-,1332.9,-
 Disruption B: Travel Delay,Distance Saved (%),-,32.79,-
 Disruption B: Travel Delay,Orders Recovered via Re-evaluation Queue,-,0.0,-
+=======
+Disruption B: Travel Delay,Execution Time (sec),4.643,16.152,-247.85
+Disruption B: Travel Delay,Distance Saved (km),-,1332.9,-
+Disruption B: Travel Delay,Distance Saved (%),-,32.79,-
+>>>>>>> 95de37805618e7e20d45ecc2599cc0ba6e99c39a
 Disruption C: Urgent Demand Surge,Total Distance (km),4148.087,3396.513,18.12
 Disruption C: Urgent Demand Surge,Avg Distance / Order (km),4.148,4.157,-0.22
 Disruption C: Urgent Demand Surge,Number of Batches,220.0,183.0,16.82
@@ -67,7 +85,13 @@ Disruption C: Urgent Demand Surge,Maximum Rider Workload (min),1139.72,79.45,93.
 Disruption C: Urgent Demand Surge,On-Time Delivery Rate,0.723,1.0,-38.31
 Disruption C: Urgent Demand Surge,Urgent Order On-Time Rate,0.533,1.0,-87.67
 Disruption C: Urgent Demand Surge,Unassigned Orders,0.0,183.0,N/A
+<<<<<<< HEAD
 Disruption C: Urgent Demand Surge,Execution Time (sec),4.243,12.944,-205.09
 Disruption C: Urgent Demand Surge,Distance Saved (km),-,751.57,-
 Disruption C: Urgent Demand Surge,Distance Saved (%),-,18.12,-
 Disruption C: Urgent Demand Surge,Orders Recovered via Re-evaluation Queue,-,0.0,-
+=======
+Disruption C: Urgent Demand Surge,Execution Time (sec),4.947,11.922,-140.99
+Disruption C: Urgent Demand Surge,Distance Saved (km),-,751.57,-
+Disruption C: Urgent Demand Surge,Distance Saved (%),-,18.12,-
+>>>>>>> 95de37805618e7e20d45ecc2599cc0ba6e99c39a

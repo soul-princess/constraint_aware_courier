@@ -110,6 +110,7 @@ Yes, in a directionally sensible way:
   satisfaction is not scenario-dependent by construction (violations are
   rejected outright, not merely reduced).
 
+<<<<<<< HEAD
 ## 5b. Recovery Pass Findings: Is the 182 Due to Insertion-Order Luck, or Genuine Infeasibility?
 
 A recovery / re-evaluation stage was added after the initial multi-round
@@ -148,6 +149,8 @@ deprioritizing the least time-sensitive orders, which is correct behaviour
 under the stated requirements but has a real customer-experience cost for
 that specific segment.
 
+=======
+>>>>>>> 95de37805618e7e20d45ecc2599cc0ba6e99c39a
 ## 6. Why Do Orders Remain Unassigned Rather Than Delivered Late?
 
 This is a deliberate design choice, not a limitation to be hidden: CABA's

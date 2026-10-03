@@ -34,6 +34,7 @@ simple baseline on both normal and disrupted operating days.
   conflicts, with human-readable rejection reasons.
 - Multi-round, full-operating-day simulation (riders complete several
   batches per shift, not just one).
+<<<<<<< HEAD
 - **Pluggable routing layer** (`src/routing.py`): Haversine distance is the
   active default; a documented (not-yet-implemented) OSRM/OpenRouteService
   hook exists for future real-road routing, selectable with one config
@@ -53,6 +54,14 @@ simple baseline on both normal and disrupted operating days.
   Baseline-vs-Proposed workflow table, a rider-workload chart with a
   "maximum allowed" reference line, a "Why was this order rejected?" table,
   order & batch tables, and 6+ interactive visualizations.
+=======
+- Explicit Rider Workload Score with LOW/MEDIUM/HIGH/EXCESSIVE banding.
+- Three disruption scenarios: rider capacity loss, travel delay, urgent
+  demand surge.
+- Full pytest suite covering 5 required failure/edge cases (23 tests, all passing).
+- Streamlit dashboard with scenario/algorithm selectors, order & batch
+  tables, and 6+ interactive visualizations.
+>>>>>>> 95de37805618e7e20d45ecc2599cc0ba6e99c39a
 
 ## Architecture
 
@@ -72,6 +81,7 @@ constraint_aware_courier/
 │   ├── preprocessing.py        # Load & clean datasets
 │   ├── constraints.py          # Compatibility matrix + all hard constraints
 │   ├── workload.py             # Rider Workload Score (frontline protection)
+<<<<<<< HEAD
 │   ├── routing.py              # Pluggable routing layer (Haversine default, OSRM future hook)
 │   ├── baseline.py             # Naive nearest-neighbour baseline
 │   ├── batching_algorithm.py   # CABA + recovery/re-evaluation queue
@@ -79,6 +89,15 @@ constraint_aware_courier/
 │   ├── evaluation.py           # Metrics + baseline-vs-CABA comparison
 │   └── visualization.py        # Plotly chart builders
 ├── tests/                      # pytest suite (5 required edge cases + routing + recovery)
+=======
+│   ├── routing.py              # Haversine distance + travel-time approximation
+│   ├── baseline.py             # Naive nearest-neighbour baseline
+│   ├── batching_algorithm.py   # CABA -- the core algorithm
+│   ├── disruption.py           # 3 disruption scenario generators
+│   ├── evaluation.py           # Metrics + baseline-vs-CABA comparison
+│   └── visualization.py        # Plotly chart builders
+├── tests/                      # pytest suite (5 required edge cases)
+>>>>>>> 95de37805618e7e20d45ecc2599cc0ba6e99c39a
 ├── notebooks/experiment.ipynb  # Executed experiment notebook (real outputs)
 ├── reports/                    # experiment_results.csv, failure_analysis.csv, user_feedback.csv
 ├── docs/                       # field_workflow, technical_documentation, methodology, limitations, error_analysis
@@ -118,10 +137,16 @@ the Baseline and CABA, and writes:
 pytest tests/ -v
 ```
 
+<<<<<<< HEAD
 34 tests covering: rider capacity exceeded, deadline infeasibility,
 product/group incompatibility, pickup-readiness violations, rider
 unavailability / disruption reassignment, the pluggable routing-provider
 layer, and the recovery/re-evaluation queue.
+=======
+23 tests covering: rider capacity exceeded, deadline infeasibility,
+product/group incompatibility, pickup-readiness violations, and rider
+unavailability / disruption reassignment.
+>>>>>>> 95de37805618e7e20d45ecc2599cc0ba6e99c39a
 
 ## Launch the Streamlit Dashboard
 
@@ -166,6 +191,7 @@ every order but with substantial violations. This trade-off is discussed in
 full in `docs/limitations.md`, `docs/error_analysis.md`, and
 `reports/failure_analysis.csv`.
 
+<<<<<<< HEAD
 **This is not insertion-order luck.** A dedicated recovery/re-evaluation
 pass (`src/batching_algorithm.py -> _recovery_pass`) gives every
 unassigned order one more explicit, logged attempt against the *entire*
@@ -179,6 +205,8 @@ orders are NORMAL/LOW priority; 0% are URGENT/HIGH** -- the priority queue
 (Constraint 7) is working exactly as designed. See
 `docs/error_analysis.md` Section 5b.
 
+=======
+>>>>>>> 95de37805618e7e20d45ecc2599cc0ba6e99c39a
 ## Error Analysis
 
 See `docs/error_analysis.md` for a full breakdown of: why orders could not
